@@ -7,8 +7,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-saroj2129)
 
 #### 🛠️ Skills
-
-
 ![](https://img.shields.io/badge/-C-00599C)
 
  
@@ -38,6 +36,10 @@
  
 
 ![](https://img.shields.io/badge/-MQTT-660066)
+
+
+ 
+
 
 
 
