@@ -1,16 +1,51 @@
-## Hi there 👋
+### Hi there 👋, I'm Anuj Kumar Saroj
 
-<!--
-**anujsaroj2129-sys/anujsaroj2129-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech ECE (IoT), MMMUT Gorakhpur | 2nd Year
+- 🔭 Currently: IoT Intern @ UpSkill Campus | Ex-Intern @ India Space Academy (Drone Tech)
+- 🌱 Interests: IoT Systems, Embedded Systems, Drone Technology, AI/ML
+- 📫 Reach me: anujsaroj2129@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-saroj2129)
 
-Here are some ideas to get you started:
+#### 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://img.shields.io/badge/-C-00599C)
+
+ 
+
+![](https://img.shields.io/badge/-C++-00599C)
+
+ 
+
+![](https://img.shields.io/badge/-Python-3776AB)
+
+ 
+
+![](https://img.shields.io/badge/-Embedded_C-informational)
+
+ 
+
+![](https://img.shields.io/badge/-Arduino-00979D)
+
+ 
+
+![](https://img.shields.io/badge/-Raspberry_Pi-C51A4A)
+
+ 
+
+![](https://img.shields.io/badge/-Git-F05032)
+
+ 
+
+![](https://img.shields.io/badge/-MQTT-660066)
+
+
+
+#### 🚀 Featured Projects
+- **AI-Based IoT Healthcare Monitoring System** — Real-time vitals monitoring with anomaly detection & auto alerts
+- **Agriculture Automation Irrigation System** — Smart IoT irrigation, 35% water usage reduction
+
+#### 📊 GitHub Stats
+
+
+![](https://github-readme-stats.vercel.app/api?username=anujsaroj2129-sys&show_icons=true&theme=radical)
