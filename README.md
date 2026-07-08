@@ -32,4 +32,4 @@
 #### 📊 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=anujsaroj2129-sys&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=anujsaroj2129-sys&color=blueviolet)
