@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anuj Kumar Saroj
 
-- 🎓 B.Tech ECE (IoT), MMMUT Gorakhpur | 2nd Year
+- 🎓 B.Tech ECE (IoT), MMMUT Gorakhpur | Final Year
 - 🔭 Currently: IoT Intern @ UpSkill Campus | Ex-Intern @ India Space Academy (Drone Tech)
 - 🌱 Interests: IoT Systems, Embedded Systems, Drone Technology, AI/ML
 - 📫 Reach me: anujsaroj2129@gmail.com
