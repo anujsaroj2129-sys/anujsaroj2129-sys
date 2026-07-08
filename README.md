@@ -8,34 +8,16 @@
 
 #### 🛠️ Skills
 ![](https://img.shields.io/badge/-C-00599C)
-
- 
-
 ![](https://img.shields.io/badge/-C++-00599C)
-
- 
-
-![](https://img.shields.io/badge/-Python-3776AB)
-
- 
-
+![](https://img.shields.io/badge/-Python-3776AB
 ![](https://img.shields.io/badge/-Embedded_C-informational)
-
- 
-
 ![](https://img.shields.io/badge/-Arduino-00979D)
-
- 
-
 ![](https://img.shields.io/badge/-Raspberry_Pi-C51A4A)
-
- 
-
 ![](https://img.shields.io/badge/-Git-F05032)
+![](https://img.shields.io/badge/-MQTT-660066)
 
  
 
-![](https://img.shields.io/badge/-MQTT-660066)
 
 
  
